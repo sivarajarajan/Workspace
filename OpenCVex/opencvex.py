@@ -6,6 +6,7 @@ from matplotlib import pyplot as plt
 
 import cv2
 import sys
+import os
 
 
 class processImage():
@@ -43,6 +44,7 @@ class processImage():
         # Find the values more than 0
         self.edge = cv2.Canny(self.img, 100, 500)
         indices = np.where(self.edge != 0)
+        # print indices
         coordinates = zip(indices[0], indices[1])
 
         print "Coordinates :", coordinates
@@ -52,10 +54,15 @@ def main():
     if len(sys.argv) > 1:
         print "Processing image :", sys.argv[1]
 
-    pi = processImage("fb.png")
+    img = "simple.png"
+
+    if not os.path.isfile(img):
+        print "Can not find the image -", img
+        return False
+    pi = processImage(img)
     pi.greyImage()
     # pi.displayImage()
-    # pi.displayEdge()
+    pi.displayEdge()
     pi.cannyEdges()
 
 
