@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eab39b2e-aecb-4634-a31b-59a80a195f76" name="Default" comment="" />
+    <list default="true" id="eab39b2e-aecb-4634-a31b-59a80a195f76" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenCVex/flower.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonEx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonEx.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCVex/opencvex.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCVex/opencvex.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +19,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sanity_series_resolution_check_v3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_series_resolution_check_v3.py">
+      <file leaf-file-name="opencvex.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OpenCVex/opencvex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            <state relative-caret-position="108">
+              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
               <folding>
-                <element signature="e#19#28#0" expanded="true" />
+                <element signature="e#41#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,26 +98,30 @@
       <dir>C:\Users\rajsivar\Downloads\CDVR_code\aurora_cdvr_sanity_tests\scripts\sanity_scripts</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ex_count_down.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep_rebook_ep2.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/L3commonFunctions.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/cornercase_set1_scripts/corner_US31774_TC989_cancel_series_with_currentlyrecording_event_rebook.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0013_US31739_TC8111_Schedule_Event_based_Recording_Playback.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_simple_event_based_recording_playback.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep_rebook_ep2.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/L3commonFunctions.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/cornercase_set1_scripts/corner_US31774_TC989_cancel_series_with_currentlyrecording_event_rebook.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0013_US31739_TC8111_Schedule_Event_based_Recording_Playback.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_simple_event_based_recording_playback.py" />
         <option value="$PROJECT_DIR$/TC_runtime.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31724_TC8347_More_than_one_booking_program_in_the_booking_list.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31739_TC8331_startrecordingbefore5minutes.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep_while_booking_scenario2.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep_while_booking.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_series_rebooking_different_recordginstokeep.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9603_series_rebooking_different_recordginstokeep_with_episode_gap.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9603_series_rebooking_different_recordginstokeep.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9606_series_rebooking_different_recordginstokeep_with_episode_gap.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_series_resolution_check.py" />
-        <option value="$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_series_resolution_check_v3.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31724_TC8347_More_than_one_booking_program_in_the_booking_list.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31739_TC8331_startrecordingbefore5minutes.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep_while_booking_scenario2.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep_while_booking.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_series_rebooking_different_recordginstokeep.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9603_series_rebooking_different_recordginstokeep_with_episode_gap.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9603_series_rebooking_different_recordginstokeep.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9606_series_rebooking_different_recordginstokeep_with_episode_gap.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_series_resolution_check.py" />
+        <option value="E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_series_resolution_check_v3.py" />
+        <option value="$PROJECT_DIR$/OpenCVex/opencvex.py" />
       </list>
     </option>
   </component>
@@ -129,26 +141,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="PythonEx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CDVR_code" type="462c0819:PsiDirectoryNode" />
+              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PythonEx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CDVR_code" type="462c0819:PsiDirectoryNode" />
-              <item name="aurora_cdvr_sanity_tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonEx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CDVR_code" type="462c0819:PsiDirectoryNode" />
-              <item name="aurora_cdvr_sanity_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonEx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CDVR_code" type="462c0819:PsiDirectoryNode" />
-              <item name="aurora_cdvr_sanity_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="basic_feature_scripts_ppsv3" type="462c0819:PsiDirectoryNode" />
+              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenCVex" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,16 +157,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/rajsivar/Downloads/CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31739_TC8331_startrecordingbefore5minutes.py" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CDVR_code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspace\OpenCVex" />
       <recent name="C:\Users\rajsivar\Downloads\CDVR_code\aurora_cdvr_sanity_tests\scripts\cornercase_scripts_ppsv3\cornercase_set3_scripts" />
       <recent name="C:\Users\rajsivar\Downloads\CDVR_code\aurora_cdvr_sanity_tests\scripts\cornercase_scripts_ppsv3\cornercase_set2_scripts" />
       <recent name="C:\Users\rajsivar\Downloads\CDVR_code\aurora_cdvr_sanity_tests\scripts\basic_feature_scripts_ppsv3" />
       <recent name="C:\Users\rajsivar\Downloads\CDVR_code\aurora_cdvr_sanity_tests\scripts\basic_feature_scripts" />
-      <recent name="C:\Users\rajsivar\Downloads\CDVR_code\aurora_cdvr_sanity_tests\scripts\cornercase_set3_ppsv3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -182,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TC_runtime">
+  <component name="RunManager" selected="Python.opencvex">
     <configuration name="TC_runtime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonEx" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,12 +218,32 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="opencvex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonEx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCVex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCVex/opencvex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.ex_count_down" />
       <item itemvalue="Python.TC_runtime" />
+      <item itemvalue="Python.opencvex" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.opencvex" />
         <item itemvalue="Python.TC_runtime" />
         <item itemvalue="Python.ex_count_down" />
       </list>
@@ -244,15 +263,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23632812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23572475" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32913387" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32965517" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -263,205 +281,43 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_0014_US31812_TC873_storageQuota_display.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3380">
-          <caret line="186" column="44" selection-start-line="186" selection-start-column="44" selection-end-line="186" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep_rebook_ep2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="184" column="81" lean-forward="true" selection-start-line="184" selection-start-column="12" selection-end-line="184" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31785_TC1611_two_tuners_event_manual_series_book.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="73" column="79" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_0013_US31739_TC8334_delete_recording.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_0014_US31837_TC1231_changed_HHquota_global_not_affected.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/V3_planner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6077">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_0018_US31812_TC8247_storageQuota_after_eventdelete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set1_ppsv3/corner_0036_US31833_TC8318_Playback_Recordedcontent_Tunersbusyrecording.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="110" column="8" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/L1commonFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="235" column="20" selection-start-line="235" selection-start-column="20" selection-end-line="235" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/cornercase_set1_scripts/corner_US31735_TC1296_FailSeriesBookingRequest_storageQuotaConflict.py" />
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts_ppsv3/cornercase_set1_scripts/corner_0010_US31812_TC8250_storageQuota_newHH.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" selection-start-line="25" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/cornercase_set1_scripts/corner_US31774_TC989_cancel_series_with_currentlyrecording_event_rebook.py" />
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/cornercase_set1_scripts/corner_US31774_TC987_cancel_currently_recording_episode_of_series.py" />
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US31202_TC1646_reauthorize_hh_existingSeriesBooking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="127" column="79" lean-forward="true" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US31202_TC1648_reauthorize_SeriesRecordingStartTimeChange.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="125" column="8" lean-forward="true" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US31743_TC912_Delete_series_bookings_and_series_recordings_simultaneously.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="174" column="53" selection-start-line="174" selection-start-column="41" selection-end-line="174" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/corner_US31810_TC1144_seriesCurrent_episode_tunerconflict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2800">
-          <caret line="155" column="35" selection-start-line="155" selection-start-column="35" selection-end-line="155" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/L3commonFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="2169" column="21" selection-start-line="2169" selection-start-column="4" selection-end-line="2169" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_YYY001_US31203_TC1647_reauthorize_household.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1300">
-          <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3060" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0011_US31840_TC8087_virtual_diskquota_popup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2340" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0013_US58965_TC8103_delete_recording.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="169" column="43" selection-start-line="169" selection-start-column="29" selection-end-line="169" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0013_US31739_TC8111_Schedule_Event_based_Recording_Playback.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_US61408_TC8496_Reathorize_household_allowRecording.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="153" column="32" selection-start-line="153" selection-start-column="32" selection-end-line="153" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_get_locale.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_simple_event_based_recording_playback.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2343">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/corner_0010_US31724_TC1390_Only_one_booking_program_in_the_booking_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="192" column="36" lean-forward="true" selection-start-line="192" selection-start-column="36" selection-end-line="192" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_0012_US31839_TC8415_Booking_request_fails_for_single_event_booking_for_future.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/V3_commonFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1324">
-          <caret line="1185" column="26" lean-forward="true" selection-start-line="1185" selection-start-column="26" selection-end-line="1185" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_US31863_TC1162_Series_Collapse_Expand_Bookedcatalog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31739_TC8331_startrecordingbefore5minutes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep_rebook_ep2.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31785_TC1611_two_tuners_event_manual_series_book.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_0013_US31739_TC8334_delete_recording.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_0014_US31837_TC1231_changed_HHquota_global_not_affected.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/V3_planner.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_0018_US31812_TC8247_storageQuota_after_eventdelete.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set1_ppsv3/corner_0036_US31833_TC8318_Playback_Recordedcontent_Tunersbusyrecording.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/L1commonFunctions.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/cornercase_set1_scripts/corner_US31735_TC1296_FailSeriesBookingRequest_storageQuotaConflict.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts_ppsv3/cornercase_set1_scripts/corner_0010_US31812_TC8250_storageQuota_newHH.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/cornercase_set1_scripts/corner_US31774_TC989_cancel_series_with_currentlyrecording_event_rebook.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/cornercase_set1_scripts/corner_US31774_TC987_cancel_currently_recording_episode_of_series.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US31202_TC1646_reauthorize_hh_existingSeriesBooking.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US31202_TC1648_reauthorize_SeriesRecordingStartTimeChange.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US31743_TC912_Delete_series_bookings_and_series_recordings_simultaneously.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/corner_US31810_TC1144_seriesCurrent_episode_tunerconflict.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/L3commonFunctions.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_YYY001_US31203_TC1647_reauthorize_household.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0011_US31840_TC8087_virtual_diskquota_popup.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0013_US58965_TC8103_delete_recording.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0013_US31739_TC8111_Schedule_Event_based_Recording_Playback.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_US61408_TC8496_Reathorize_household_allowRecording.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_get_locale.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_simple_event_based_recording_playback.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts/corner_0010_US31724_TC1390_Only_one_booking_program_in_the_booking_list.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_0012_US31839_TC8415_Booking_request_fails_for_single_event_booking_for_future.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/lib/V3_commonFunctions.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_US31863_TC1162_Series_Collapse_Expand_Bookedcatalog.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31739_TC8331_startrecordingbefore5minutes.py" />
     <entry file="file://$PROJECT_DIR$/TC_runtime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
@@ -469,133 +325,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep.py">
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_Customer_Issue_recording_to_keep.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_0011_US31840_TC870_virtual_diskquota_popup.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_US31839_TC8417_successfull_series_booking.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_US31863_TC8221_series_record_booked_lib.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31724_TC8347_More_than_one_booking_program_in_the_booking_list.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts_ppsv3/cornercase_set3_scripts/corner_US31724_TC8347_More_than_one_booking_program_in_the_booking_list.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set1_ppsv3/corner_US31774_TC8182_CancelSeries_RebookEpisode.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9606_series_rebooking_different_recordginstokeep_with_episode_gap.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9603_series_rebooking_different_recordginstokeep.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_TIMS_Python.zip/TIMS_Python/update_rally_results.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_create_planner.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_getPolicies_iPOM.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_0021_get_catalog.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_0010_getCatalogServices.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_0010_getOffers.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_get_offerlist.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_get_cmdcServiceList.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0012_US31837_TC8088_storagequota_change_in_billing.py" />
+    <entry file="file://E:/../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_series_resolution_check_v3.py" />
+    <entry file="file://$PROJECT_DIR$/OpenCVex/opencvex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="284" column="28" selection-start-line="284" selection-start-column="12" selection-end-line="284" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_0011_US31840_TC870_virtual_diskquota_popup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="41" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_US31839_TC8417_successfull_series_booking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set2_ppsv3/corner_US31863_TC8221_series_record_booked_lib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set3_ppsv3/corner_US31724_TC8347_More_than_one_booking_program_in_the_booking_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_scripts_ppsv3/cornercase_set3_scripts/corner_US31724_TC8347_More_than_one_booking_program_in_the_booking_list.py" />
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/cornercase_set1_ppsv3/corner_US31774_TC8182_CancelSeries_RebookEpisode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="17" column="20" selection-start-line="17" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9606_series_rebooking_different_recordginstokeep_with_episode_gap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts/basic_US77779_TC9603_series_rebooking_different_recordginstokeep.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="60" column="93" selection-start-line="60" selection-start-column="93" selection-end-line="60" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_TIMS_Python.zip/TIMS_Python/update_rally_results.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_create_planner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
+        <state relative-caret-position="108">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
           <folding>
-            <element signature="e#19#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_getPolicies_iPOM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1263">
-          <caret selection-end-line="92" />
-          <folding>
-            <element signature="e#18#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_0021_get_catalog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_0010_getCatalogServices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="91" column="59" selection-start-line="91" selection-start-column="59" selection-end-line="91" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_0010_getOffers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="51" column="38" lean-forward="true" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_get_offerlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="60" column="62" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts/sanity_get_cmdcServiceList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/basic_feature_scripts_ppsv3/basic_0012_US31837_TC8088_storagequota_change_in_billing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1140" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../CDVR_code/aurora_cdvr_sanity_tests/scripts/sanity_scripts_ppsv3/sanity_series_resolution_check_v3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-          <folding>
-            <element signature="e#19#28#0" expanded="true" />
+            <element signature="e#41#59#0" expanded="true" />
           </folding>
         </state>
       </provider>

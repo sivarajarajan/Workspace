@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../CDVR_code/.idea/CDVR_code.iml" filepath="$PROJECT_DIR$/../../CDVR_code/.idea/CDVR_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonEx.iml" filepath="$PROJECT_DIR$/.idea/PythonEx.iml" />
     </modules>
   </component>

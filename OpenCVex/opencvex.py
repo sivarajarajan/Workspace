@@ -42,9 +42,9 @@ class processImage():
 
     def cannyEdges(self):
         # Find the values more than 0
-        self.edge = cv2.Canny(self.img, 100, 500)
+        self.edge = cv2.Canny(self.img, 10, 200)
         indices = np.where(self.edge != 0)
-        # print indices
+        print indices
         coordinates = zip(indices[0], indices[1])
 
         print "Coordinates :", coordinates
@@ -54,7 +54,7 @@ def main():
     if len(sys.argv) > 1:
         print "Processing image :", sys.argv[1]
 
-    img = "simple.png"
+    img = "flower.jpg"
 
     if not os.path.isfile(img):
         print "Can not find the image -", img
