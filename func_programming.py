@@ -40,5 +40,15 @@ execute = lambda f:f()
 
 ret = map(execute, [func1, func2, func3])
 
+# ---------------------------------
+# Reduce
+# ex:
+#   reduce(func, seq)
 
+
+li = [1,3,5,7,9]
+add = lambda x,y : x+y
+
+sun = reduce(add, li)
+print "Sum :", sun
 
